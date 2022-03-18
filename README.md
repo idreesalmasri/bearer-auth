@@ -11,8 +11,8 @@ in this lab :
 - use bcrypt.compare to compare between the inserted password and the hashed password in the DB
 - use base64 to decode the password
 - create test to check if my routes work prperly
-[heroku app]()  
-[PR]()  
-[actions]()  
+[heroku app](https://bearer-auth-task.herokuapp.com/)  
+[PR](https://github.com/idreesalmasri/bearer-auth/pull/2)  
+[actions](https://github.com/idreesalmasri/bearer-auth/actions)  
 
 ![uml](./uml.JPG)
